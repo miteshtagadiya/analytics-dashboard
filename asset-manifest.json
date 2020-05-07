@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/analytics-dashboard/static/css/main.92462a38.chunk.css",
+    "main.js": "/analytics-dashboard/static/js/main.ad496964.chunk.js",
+    "main.js.map": "/analytics-dashboard/static/js/main.ad496964.chunk.js.map",
+    "runtime-main.js": "/analytics-dashboard/static/js/runtime-main.7390b0ed.js",
+    "runtime-main.js.map": "/analytics-dashboard/static/js/runtime-main.7390b0ed.js.map",
+    "static/css/2.74189dbb.chunk.css": "/analytics-dashboard/static/css/2.74189dbb.chunk.css",
+    "static/js/2.148d1e24.chunk.js": "/analytics-dashboard/static/js/2.148d1e24.chunk.js",
+    "static/js/2.148d1e24.chunk.js.map": "/analytics-dashboard/static/js/2.148d1e24.chunk.js.map",
+    "index.html": "/analytics-dashboard/index.html",
+    "precache-manifest.1e105ddbc63ea9d4a74e7d95a8b539ac.js": "/analytics-dashboard/precache-manifest.1e105ddbc63ea9d4a74e7d95a8b539ac.js",
+    "service-worker.js": "/analytics-dashboard/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/analytics-dashboard/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.92462a38.chunk.css.map": "/analytics-dashboard/static/css/main.92462a38.chunk.css.map",
+    "static/js/2.148d1e24.chunk.js.LICENSE.txt": "/analytics-dashboard/static/js/2.148d1e24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7390b0ed.js",
+    "static/css/2.74189dbb.chunk.css",
+    "static/js/2.148d1e24.chunk.js",
+    "static/css/main.92462a38.chunk.css",
+    "static/js/main.ad496964.chunk.js"
+  ]
+}
