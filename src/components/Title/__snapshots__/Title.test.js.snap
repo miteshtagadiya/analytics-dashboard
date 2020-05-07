@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly when there is no props 1`] = `
+<div
+  style={
+    Object {
+      "marginBottom": 15,
+    }
+  }
+>
+  <label
+    style={
+      Object {
+        "fontSize": 16,
+        "fontWeight": "bold",
+        "marginBottom": 5,
+      }
+    }
+  />
+  <hr
+    style={
+      Object {
+        "border": "2px solid #4a5068",
+        "marginTop": 0,
+        "position": "absolute",
+        "width": 50,
+      }
+    }
+  />
+</div>
+`;
+
+exports[`renders correctly when there title prop 1`] = `
+<div
+  style={
+    Object {
+      "marginBottom": 15,
+    }
+  }
+>
+  <label
+    style={
+      Object {
+        "fontSize": 16,
+        "fontWeight": "bold",
+        "marginBottom": 5,
+      }
+    }
+  >
+    Title
+  </label>
+  <hr
+    style={
+      Object {
+        "border": "2px solid #4a5068",
+        "marginTop": 0,
+        "position": "absolute",
+        "width": 50,
+      }
+    }
+  />
+</div>
+`;
