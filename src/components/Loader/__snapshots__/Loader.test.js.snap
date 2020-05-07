@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="d-flex justify-content-center align-items-center"
+  style={
+    Object {
+      "minHeight": 270,
+    }
+  }
+>
+  <div
+    className="spinner-grow"
+    role="status"
+  >
+    <span
+      className="sr-only"
+    >
+      Loading...
+    </span>
+  </div>
+</div>
+`;
