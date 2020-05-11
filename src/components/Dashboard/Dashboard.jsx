@@ -72,7 +72,7 @@ const Dashboard = () => {
       <div className="row">
         <div className="col-sm-12 col-lg-6">
           <div className="card p-4">
-            <Title title="Orders Count" />
+            <Title title="Orders Counts by date" />
             {loader ? (
               <Loader />
             ) : (
@@ -88,7 +88,7 @@ const Dashboard = () => {
         </div>
         <div className="col-sm-12 col-lg-6">
           <div className="card p-4">
-            <Title title="Orders Count" />
+            <Title title="Total Price by date" />
             {loader ? (
               <Loader />
             ) : (
